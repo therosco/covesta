@@ -1,0 +1,15 @@
+{
+    "name": "rosco/covesta",
+    "description": "Snakes and Ladders technical challenge",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rosco",
+            "email": "alexey@belan.su"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Covesta\\": "src/" }
+    }
+}
